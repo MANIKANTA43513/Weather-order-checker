@@ -1,0 +1,5 @@
+1. Prompt: "Write Node.js code to call multiple APIs in parallel using Promise.all."
+
+2. Prompt: "How to handle API errors in axios without stopping execution?"
+
+3. Prompt: "Generate a personalized apology message for delivery delay due to weather."
