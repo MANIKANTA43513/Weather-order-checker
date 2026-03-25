@@ -43,5 +43,7 @@ node index.js
 - API key activation may take some time
 - Invalid cities are logged but do not crash the program
 
+- Demo link(https://drive.google.com/file/d/1ajEVZjqb3fqV7FI2lb2MzQQtVSjp-e4A/view?usp=sharing)
+
 ## Author
 Manikanta
